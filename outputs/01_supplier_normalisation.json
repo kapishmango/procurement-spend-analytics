@@ -1,0 +1,147 @@
+[
+  {
+    "supplier_record_id": "V01A",
+    "supplier_name": "Demo Harbour Supplies Pvt Ltd",
+    "registration_id": "DEMO-REG-0001",
+    "approved": true,
+    "normalised_name": "demo harbour supplies",
+    "canonical_supplier_id": "S01",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V01B",
+    "supplier_name": "DEMO HARBOUR SUPPLIES PRIVATE LIMITED",
+    "registration_id": "DEMO-REG-0001",
+    "approved": true,
+    "normalised_name": "demo harbour supplies",
+    "canonical_supplier_id": "S01",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V02A",
+    "supplier_name": "Demo Vertex Trading Pvt Ltd",
+    "registration_id": "DEMO-REG-0002",
+    "approved": true,
+    "normalised_name": "demo vertex trading",
+    "canonical_supplier_id": "S02",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V02B",
+    "supplier_name": "DEMO VERTEX TRADING PRIVATE LIMITED",
+    "registration_id": "DEMO-REG-0002",
+    "approved": true,
+    "normalised_name": "demo vertex trading",
+    "canonical_supplier_id": "S02",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V03A",
+    "supplier_name": "Demo Orion Services Pvt Ltd",
+    "registration_id": "DEMO-REG-0003",
+    "approved": true,
+    "normalised_name": "demo orion services",
+    "canonical_supplier_id": "S03",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V03B",
+    "supplier_name": "DEMO ORION SERVICES PRIVATE LIMITED",
+    "registration_id": "DEMO-REG-0003",
+    "approved": true,
+    "normalised_name": "demo orion services",
+    "canonical_supplier_id": "S03",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V04A",
+    "supplier_name": "Demo Cedar Facilities Pvt Ltd",
+    "registration_id": "DEMO-REG-0004",
+    "approved": true,
+    "normalised_name": "demo cedar facilities",
+    "canonical_supplier_id": "S04",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V04B",
+    "supplier_name": "DEMO CEDAR FACILITIES PRIVATE LIMITED",
+    "registration_id": "DEMO-REG-0004",
+    "approved": true,
+    "normalised_name": "demo cedar facilities",
+    "canonical_supplier_id": "S04",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V05A",
+    "supplier_name": "Demo Westfield Products Pvt Ltd",
+    "registration_id": "DEMO-REG-0005",
+    "approved": true,
+    "normalised_name": "demo westfield products",
+    "canonical_supplier_id": "S05",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V05B",
+    "supplier_name": "DEMO WESTFIELD PRODUCTS PRIVATE LIMITED",
+    "registration_id": "DEMO-REG-0005",
+    "approved": true,
+    "normalised_name": "demo westfield products",
+    "canonical_supplier_id": "S05",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V06A",
+    "supplier_name": "Demo Meadow Solutions Pvt Ltd",
+    "registration_id": "DEMO-REG-0006",
+    "approved": false,
+    "normalised_name": "demo meadow solutions",
+    "canonical_supplier_id": "S06",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V06B",
+    "supplier_name": "DEMO MEADOW SOLUTIONS PRIVATE LIMITED",
+    "registration_id": "DEMO-REG-0006",
+    "approved": false,
+    "normalised_name": "demo meadow solutions",
+    "canonical_supplier_id": "S06",
+    "match_status": "registration_id_match",
+    "candidate_supplier_ids": [],
+    "review_reason": ""
+  },
+  {
+    "supplier_record_id": "V01C",
+    "supplier_name": "Demo Harbour Supplies Limited",
+    "registration_id": null,
+    "approved": true,
+    "normalised_name": "demo harbour supplies",
+    "canonical_supplier_id": null,
+    "match_status": "manual_review",
+    "candidate_supplier_ids": [
+      "S01"
+    ],
+    "review_reason": "Missing registration ID; name similarity alone is insufficient."
+  }
+]

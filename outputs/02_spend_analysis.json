@@ -1,0 +1,159 @@
+{
+  "supplier_spend": [
+    {
+      "supplier_id": "S03",
+      "invoices": 20,
+      "spend_paise": 5932500
+    },
+    {
+      "supplier_id": "S06",
+      "invoices": 20,
+      "spend_paise": 5807500
+    },
+    {
+      "supplier_id": "S05",
+      "invoices": 20,
+      "spend_paise": 5040000
+    },
+    {
+      "supplier_id": "S02",
+      "invoices": 20,
+      "spend_paise": 4990000
+    },
+    {
+      "supplier_id": "S01",
+      "invoices": 20,
+      "spend_paise": 4465000
+    },
+    {
+      "supplier_id": "S04",
+      "invoices": 20,
+      "spend_paise": 4100000
+    }
+  ],
+  "category_spend": [
+    {
+      "parent_category": "Technology",
+      "category": "IT hardware",
+      "suppliers": 6,
+      "spend_paise": 6507500
+    },
+    {
+      "parent_category": "Technology",
+      "category": "Software",
+      "suppliers": 6,
+      "spend_paise": 5882500
+    },
+    {
+      "parent_category": "Services",
+      "category": "Logistics",
+      "suppliers": 6,
+      "spend_paise": 5272500
+    },
+    {
+      "parent_category": "Indirect materials",
+      "category": "Office supplies",
+      "suppliers": 6,
+      "spend_paise": 4570000
+    },
+    {
+      "parent_category": "Indirect materials",
+      "category": "Maintenance supplies",
+      "suppliers": 6,
+      "spend_paise": 4205000
+    },
+    {
+      "parent_category": "Services",
+      "category": "Facilities",
+      "suppliers": 6,
+      "spend_paise": 3755000
+    },
+    {
+      "parent_category": "Unclassified",
+      "category": "Unclassified",
+      "suppliers": 1,
+      "spend_paise": 142500
+    }
+  ],
+  "business_unit_spend": [
+    {
+      "business_unit": "Finance",
+      "spend_paise": 10847500
+    },
+    {
+      "business_unit": "Engineering",
+      "spend_paise": 10032500
+    },
+    {
+      "business_unit": "Operations",
+      "spend_paise": 9455000
+    }
+  ],
+  "geography_spend": [
+    {
+      "geography": "Pune",
+      "spend_paise": 13870000
+    },
+    {
+      "geography": "Bengaluru",
+      "spend_paise": 10405000
+    },
+    {
+      "geography": "Mumbai",
+      "spend_paise": 6060000
+    }
+  ],
+  "monthly_spend": [
+    {
+      "month": "2026-01",
+      "spend_paise": 3787500
+    },
+    {
+      "month": "2026-02",
+      "spend_paise": 3425000
+    },
+    {
+      "month": "2026-03",
+      "spend_paise": 4410000
+    },
+    {
+      "month": "2026-04",
+      "spend_paise": 3642500
+    },
+    {
+      "month": "2026-05",
+      "spend_paise": 3610000
+    },
+    {
+      "month": "2026-06",
+      "spend_paise": 4322500
+    },
+    {
+      "month": "2026-07",
+      "spend_paise": 3720000
+    },
+    {
+      "month": "2026-08",
+      "spend_paise": 3417500
+    }
+  ],
+  "policy_review": [
+    {
+      "invoice_count": 20,
+      "spend_paise": 5807500
+    }
+  ],
+  "metrics": {
+    "accepted_invoice_count": 120,
+    "total_spend_paise": 30335000,
+    "top_three_supplier_share_pct": 55.32,
+    "fragmented_category_candidates": [
+      "IT hardware",
+      "Software",
+      "Logistics",
+      "Office supplies",
+      "Maintenance supplies",
+      "Facilities"
+    ]
+  }
+}

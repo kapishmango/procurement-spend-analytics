@@ -1,0 +1,21 @@
+[
+  {
+    "row_id": "ROW-0122",
+    "reasons": [
+      "unresolved_supplier"
+    ]
+  },
+  {
+    "row_id": "ROW-0123",
+    "reasons": [
+      "amount_mismatch"
+    ]
+  },
+  {
+    "row_id": "ROW-0121",
+    "reasons": [
+      "repeated_identical_invoice_record"
+    ],
+    "retained_row_id": "ROW-0011"
+  }
+]
